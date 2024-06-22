@@ -30,3 +30,5 @@ This project has several real-life applications across various fields of biology
 
 8.Environmental Microbiology: By analyzing microbial diversity and community composition through sequence alignment, researchers can assess environmental health, study microbial interactions, and monitor ecosystem changes.
 
+
+
